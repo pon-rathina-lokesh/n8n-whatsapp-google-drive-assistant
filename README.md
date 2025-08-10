@@ -38,7 +38,7 @@ Docker – Deployment
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/<your-username>/whatsapp-drive-assistant.git
+git clone https://github.com/pon-rathina-lokesh/n8n-whatsapp-google-drive-assistant.git
 cd whatsapp-drive-assistant
 
 ### 2️⃣ Environment Variables
