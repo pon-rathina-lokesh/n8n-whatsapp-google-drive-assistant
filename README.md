@@ -147,7 +147,7 @@ Limited Google Drive scope
 
 
 ## 📹 Demo Video
-[![Watch the demo](https://img.youtube.com/vi/D7X3GItou94/0.jpg)](https://youtu.be/D7X3GItou94)
+[![Watch the demo](https://img.youtube.com/vi/YGmkCFptRt4/0.jpg)](https://youtu.be/YGmkCFptRt4)
 
 
 ## 📄 License
